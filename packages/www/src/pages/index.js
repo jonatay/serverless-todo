@@ -1,6 +1,6 @@
 import React from "react";
 export default (props) => (
   <div>
-    <h1>My Sitess</h1>
+    <h1>My Sites</h1>
   </div>
 );
