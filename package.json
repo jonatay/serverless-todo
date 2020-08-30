@@ -1,0 +1,12 @@
+{
+  "name": "serverless-todo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jonatay/serverless-todo.git",
+  "author": "jonatay <jono.stretch@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
